@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>1.0</version>
+    <authors>Rob Conery</authors>
+    <owners>Rob Conery</owners>
+    <licenseUrl>https://github.com/robconery/sugar/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/robconery/sugar</projectUrl>
+    <id>Sugar</id>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A repackage of Rob Conery's Sugar, a set of Extension Methods for making C# development a little easier.  The original package placed the files in App_Code.  I wanted it to work well with all project types so I built it into a .dll and packaged it.</description>
+    <tags>C# sugar extension</tags>
+  </metadata>
+  <files>
+    <file src="Sugar\LICENSE.txt" target="content\App_Readme\LICENSE.txt" />
+    <file src="Sugar\bin\Release\Sugar.dll" target="lib\net40\Sugar.dll" />
+  </files>
+</package>
