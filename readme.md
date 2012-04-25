@@ -2,7 +2,7 @@ This project contains .NET extension methods for .NET programmers that make some
 
 # How to Install
 
-You can directly install this project from [Nuget][6]. There is one packages:
+You can directly install this project from [Nuget][6]. There is one package:
 
 **[Sugar.NET][7]**
 
