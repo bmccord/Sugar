@@ -4,8 +4,8 @@
     <version>1.0</version>
     <authors>Rob Conery</authors>
     <owners>Rob Conery</owners>
-    <licenseUrl>https://github.com/robconery/sugar/blob/master/LICENSE.txt</licenseUrl>
-    <projectUrl>https://github.com/robconery/sugar</projectUrl>
+    <licenseUrl>https://github.com/bmccord/Sugar/blob/master/Sugar/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/bmccord/Sugar</projectUrl>
     <id>Sugar</id>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>A repackage of Rob Conery's Sugar, a set of Extension Methods for making C# development a little easier.  The original package placed the files in App_Code.  I wanted it to work well with all project types so I built it into a .dll and packaged it.</description>
