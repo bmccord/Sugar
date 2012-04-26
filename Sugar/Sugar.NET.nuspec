@@ -5,7 +5,7 @@
     <authors>Rob Conery</authors>
     <owners>$author$</owners>
 	<title>$title$</title>
-    <licenseUrl>https://github.com/bmccord/Sugar/blob/master/Sugar/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://github.com/bmccord/Sugar/blob/master/Sugar/App_Readme/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/bmccord/Sugar</projectUrl>
     <id>Sugar.NET</id>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
