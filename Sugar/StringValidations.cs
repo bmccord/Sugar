@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Text.RegularExpressions;
 
-namespace Sugar
+namespace ForgeWyrks.Sugar
 {
     /// <summary>
     /// Summary for the Validation class

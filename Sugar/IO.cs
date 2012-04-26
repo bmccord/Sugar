@@ -14,7 +14,7 @@
 using System.IO;
 using System.Net;
 
-namespace Sugar
+namespace ForgeWyrks.Sugar
 {
     /// <summary>
     /// Summary for the Files class

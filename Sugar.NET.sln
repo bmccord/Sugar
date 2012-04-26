@@ -1,12 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sugar", "Sugar\Sugar.csproj", "{7BAFF104-8B72-4523-B6EC-4FD75648EBB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sugar.NET", "Sugar\Sugar.NET.csproj", "{7BAFF104-8B72-4523-B6EC-4FD75648EBB6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{855252D7-D449-4B77-8FCC-E927708C9F75}"
 	ProjectSection(SolutionItems) = preProject
 		readme.md = readme.md
-		Sugar.NET.1.0.nuspec = Sugar.NET.1.0.nuspec
 	EndProjectSection
 EndProject
 Global

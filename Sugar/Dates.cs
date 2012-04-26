@@ -13,7 +13,7 @@
 // 
 using System;
 
-namespace Sugar
+namespace ForgeWyrks.Sugar
 {
     public static class Dates
     {

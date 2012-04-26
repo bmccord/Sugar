@@ -11,7 +11,7 @@
 //   implied. See the License for the specific language governing
 //   rights and limitations under the License.
 // 
-namespace Sugar
+namespace ForgeWyrks.Sugar
 {
     /// <summary>
     /// Summary for the RegexPattern class

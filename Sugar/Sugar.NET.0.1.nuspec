@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>$version$</version>
+    <authors>Rob Conery</authors>
+    <owners>$author$</owners>
+	<title>$title$</title>
+    <licenseUrl>https://github.com/bmccord/Sugar/blob/master/Sugar/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/bmccord/Sugar</projectUrl>
+    <id>Sugar.NET</id>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <tags>C# sugar extension</tags>
+  </metadata>
+</package>

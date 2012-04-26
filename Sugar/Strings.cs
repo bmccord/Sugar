@@ -18,7 +18,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Globalization;
 
-namespace Sugar
+namespace ForgeWyrks.Sugar
 {
     public static class Strings
     {
