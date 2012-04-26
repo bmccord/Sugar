@@ -51,7 +51,7 @@
     <Content Include="App_Readme\LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Sugar.NET.0.1.nuspec" />
+    <None Include="Sugar.NET.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
