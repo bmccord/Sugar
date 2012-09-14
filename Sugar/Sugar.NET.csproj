@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Dates.cs" />
     <Compile Include="IO.cs" />
+    <Compile Include="LINQ.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegexPattern.cs" />
     <Compile Include="Strings.cs" />
